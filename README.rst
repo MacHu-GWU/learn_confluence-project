@@ -3,19 +3,19 @@
     :target: https://learn-confluence.readthedocs.io/en/latest/
     :alt: Documentation Status
 
-.. image:: https://github.com/MacHu-GWU/learn_confluence-project/actions/workflows/main.yml/badge.svg
+.. .. image:: https://github.com/MacHu-GWU/learn_confluence-project/actions/workflows/main.yml/badge.svg
     :target: https://github.com/MacHu-GWU/learn_confluence-project/actions?query=workflow:CI
 
-.. image:: https://codecov.io/gh/MacHu-GWU/learn_confluence-project/branch/main/graph/badge.svg
+.. .. image:: https://codecov.io/gh/MacHu-GWU/learn_confluence-project/branch/main/graph/badge.svg
     :target: https://codecov.io/gh/MacHu-GWU/learn_confluence-project
 
-.. image:: https://img.shields.io/pypi/v/learn-confluence.svg
+.. .. image:: https://img.shields.io/pypi/v/learn-confluence.svg
     :target: https://pypi.python.org/pypi/learn-confluence
 
-.. image:: https://img.shields.io/pypi/l/learn-confluence.svg
+.. .. image:: https://img.shields.io/pypi/l/learn-confluence.svg
     :target: https://pypi.python.org/pypi/learn-confluence
 
-.. image:: https://img.shields.io/pypi/pyversions/learn-confluence.svg
+.. .. image:: https://img.shields.io/pypi/pyversions/learn-confluence.svg
     :target: https://pypi.python.org/pypi/learn-confluence
 
 .. image:: https://img.shields.io/badge/Release_History!--None.svg?style=social
@@ -29,10 +29,10 @@
 .. image:: https://img.shields.io/badge/Link-Document-blue.svg
     :target: https://learn-confluence.readthedocs.io/en/latest/
 
-.. image:: https://img.shields.io/badge/Link-API-blue.svg
+.. .. image:: https://img.shields.io/badge/Link-API-blue.svg
     :target: https://learn-confluence.readthedocs.io/en/latest/py-modindex.html
 
-.. image:: https://img.shields.io/badge/Link-Install-blue.svg
+.. .. image:: https://img.shields.io/badge/Link-Install-blue.svg
     :target: `install`_
 
 .. image:: https://img.shields.io/badge/Link-GitHub-blue.svg
@@ -41,7 +41,7 @@
 .. image:: https://img.shields.io/badge/Link-Submit_Issue-blue.svg
     :target: https://github.com/MacHu-GWU/learn_confluence-project/issues
 
-.. image:: https://img.shields.io/badge/Link-Request_Feature-blue.svg
+.. .. image:: https://img.shields.io/badge/Link-Request_Feature-blue.svg
     :target: https://github.com/MacHu-GWU/learn_confluence-project/issues
 
 .. image:: https://img.shields.io/badge/Link-Download-blue.svg
@@ -52,23 +52,3 @@ Welcome to ``learn_confluence`` Documentation
 ==============================================================================
 .. image:: https://learn-confluence.readthedocs.io/en/latest/_static/learn_confluence-logo.png
     :target: https://learn-confluence.readthedocs.io/en/latest/
-
-Documentation for ``learn_confluence``.
-
-
-.. _install:
-
-Install
-------------------------------------------------------------------------------
-
-``learn_confluence`` is released on PyPI, so all you need is to:
-
-.. code-block:: console
-
-    $ pip install learn-confluence
-
-To upgrade to latest version:
-
-.. code-block:: console
-
-    $ pip install --upgrade learn-confluence
